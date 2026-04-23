@@ -1,0 +1,32 @@
+# Health Tracker App
+
+##  Project Description
+This is a health tracking web application that helps users track daily health data like steps, blood pressure, and diet.
+
+##  Features
+- User login and registration
+- Dashboard with health data
+- Graph visualization
+- Backend using Node.js
+
+##  Technologies Used
+- HTML, CSS, JavaScript
+- Node.js
+- Express
+
+##  How to Run
+1. Install dependencies:
+   npm install
+
+2. Start server:
+   node server.js
+
+3. Open browser:
+   http://localhost:3000
+
+##  Screenshots
+<img width="886" height="526" alt="image" src="https://github.com/user-attachments/assets/1767dba0-f3af-4dc9-a9a4-112a48168a8a" />
+
+
+##  Author
+Kadiri Venkatesh
